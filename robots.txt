@@ -1,0 +1,23 @@
+# robots.txt for ckn.co.ke
+
+# Allow all user agents to crawl the entire site
+User-agent: *
+Disallow:
+
+# Disallow crawling of the following directories
+Disallow: /admin/
+Disallow: /config/
+Disallow: /search/
+Disallow: /account/
+Disallow: /api/
+Disallow: /static/
+
+# Disallow crawling of URL parameters to prevent duplicate content
+Disallow: /*?author=*
+Disallow: /*?tag=*
+Disallow: /*?month=*
+Disallow: /*?view=*
+Disallow: /*?format=*
+
+# Specify the location of the sitemap
+Sitemap: https://ckn.co.ke/sitemap.xml
