@@ -2,28 +2,28 @@
     {
       "title": "WBS",
       "description": "A web app that helps me manage users connected to my wifi and manage transactions.",
-      "image": "Assets/images/wbs.png",
+      "image": "Assets/images/wbs.webp",
       "link": "https://wbs.ckn.co.ke",
       "tags": ["Git pages", "Google Sheets", "Javascript"]
     },
     {
       "title": "ISS TRACKER",
       "description": "International Space Tracker, uses the API to display info in a friendly manner.",
-      "image": "Assets/images/ISS.png",
+      "image": "Assets/images/ISS.webp",
       "link": "https://iss.ckn.co.ke",
       "tags": ["Python", "Rest API"]
     },
     {
       "title": "Ecascade App",
       "description": "A mobile app I built to help me keep up with my studies back in school.",
-      "image": "Assets/images/ecascade.jpeg",
+      "image": "Assets/images/ecascade.webp",
       "link": "https://ecascade.en.uptodown.com/android",
       "tags": ["Flutter", "Markdown", "Uptodown"]
     },
     {
       "title": "CKN-Blog",
       "description": "A blog I write on tasks, challenges, and solutions I face in my tech journey.",
-      "image": "Assets/images/blog.jpg",
+      "image": "Assets/images/blog.webp",
       "link": "https://blog.ckn.co.ke",
       "tags": ["Docker", "MySQL", "Ghost"]
     }
