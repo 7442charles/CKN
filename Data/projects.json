@@ -6,6 +6,15 @@
       "link": "https://wbs.ckn.co.ke",
       "tags": ["Git pages", "Google Sheets", "Javascript"]
     },
+
+    {
+      "title": "QUICK OFFICE POINTE",
+      "description": "A software company based in Kenya.",
+      "image": "Assets/images/qop-logo.png",
+      "link": "https://quickofficepointe.co.ke",
+      "tags": ["Javascript", "HTML", "Tailwind CSS"]
+    },
+
     {
       "title": "ISS TRACKER",
       "description": "International Space Tracker, uses the API to display info in a friendly manner.",
@@ -13,6 +22,7 @@
       "link": "https://iss.ckn.co.ke",
       "tags": ["Python", "Rest API"]
     },
+
     {
       "title": "Ecascade App",
       "description": "A mobile app I built to help me keep up with my studies back in school.",
@@ -20,12 +30,36 @@
       "link": "https://ecascade.en.uptodown.com/android",
       "tags": ["Flutter", "Markdown", "Uptodown"]
     },
+
     {
-      "title": "CKN-Blog",
-      "description": "A blog I write on tasks, challenges, and solutions I face in my tech journey.",
-      "image": "Assets/images/blog.webp",
-      "link": "https://blog.ckn.co.ke",
-      "tags": ["Docker", "MySQL", "Ghost"]
+      "title": "Danol Prime Logistics",
+      "description": "logistics company offering local and international courier services.",
+      "image": "Assets/images/logo.png",
+      "link": "https://danolprimelogistics.com",
+      "tags": ["HTML", "Tailwind CSS", "Javascript", "GIT"]
+    },
+    
+    {
+      "title": "Qtec Mastery",
+      "description": "An online schol offering digital skills like programming, graphics designe....",
+      "image": "https://theqtec.com/img/2.png",
+      "link": "https://theqtec.com/",
+      "tags": ["HTML", "Tailwind CSS", "Javascript", "GIT"]
+    },
+
+    {
+      "title": "Rayhudson Nature",
+      "description": "Organic fresh farm base in United Kingdom.",
+      "image": "Assets/images/rayhud_natures.png",
+      "link": "https://rayhudsonnaturesbounty.com",
+      "tags": ["HTML", "Tailwind CSS", "Javascript", "GIT"]
+    },
+    {
+      "title": "Golden Fries",
+      "description": "Just a hero section from a design from a Twitter/X UI/UX designer.",
+      "image": "https://7442charles.github.io/Golden_Fries/Assets/Images/fries.png",
+      "link": "https://7442charles.github.io/Golden_Fries/",
+      "tags": ["HTML", "Tailwind CSS", "Javascript", "GIT"]
     }
+    
 ]
-  
