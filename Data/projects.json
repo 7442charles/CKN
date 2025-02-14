@@ -14,13 +14,20 @@
       "link": "https://quickofficepointe.co.ke",
       "tags": ["Javascript", "HTML", "Tailwind CSS"]
     },
-
     {
       "title": "ISS TRACKER",
       "description": "International Space Tracker, uses the API to display info in a friendly manner.",
       "image": "Assets/images/ISS.webp",
       "link": "https://iss.ckn.co.ke",
       "tags": ["Python", "Rest API"]
+    },
+
+    {
+      "title": "COFFEE BROCELLE",
+      "description": "This is a static landing page from a design from twitter, its just a coffee shop landing page.",
+      "image": "https://raw.githubusercontent.com/7442charles/COFFEE-BORCELLE/refs/heads/main/Assets/images/coffee_mug.jpeg",
+      "link": "https://coffee.ckn.co.ke",
+      "tags": ["Git", "Github Pages", "HTML", "Tailwind CSS"]
     },
 
     {
