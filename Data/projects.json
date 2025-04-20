@@ -10,14 +10,14 @@
     {
       "title": "QUICK OFFICE POINTE",
       "description": "A software company based in Kenya.",
-      "image": "Assets/images/qop-logo.png",
+      "image": "Assets/images/quick_office_pointe.webp",
       "link": "https://quickofficepointe.co.ke",
       "tags": ["Javascript", "HTML", "Tailwind CSS"]
     },
     {
       "title": "ISS TRACKER",
       "description": "International Space Tracker, uses the API to display info in a friendly manner.",
-      "image": "Assets/images/ISS.webp",
+      "image": "Assets/images/iss.ckn.co.ke.webp",
       "link": "https://iss.ckn.co.ke",
       "tags": ["Python", "Rest API"]
     },
@@ -41,7 +41,7 @@
     {
       "title": "Danol Prime Logistics",
       "description": "logistics company offering local and international courier services.",
-      "image": "Assets/images/logo.png",
+      "image": "Assets/images/Danol_prime_logistics.webp",
       "link": "https://danolprimelogistics.com",
       "tags": ["HTML", "Tailwind CSS", "Javascript", "GIT"]
     },
@@ -49,7 +49,7 @@
     {
       "title": "Qtec Mastery",
       "description": "An online schol offering digital skills like programming, graphics designe....",
-      "image": "https://theqtec.com/img/2.png",
+      "image": "Assets/images/the_qtec.webp",
       "link": "https://theqtec.com/",
       "tags": ["HTML", "Tailwind CSS", "Javascript", "GIT"]
     },
@@ -57,14 +57,14 @@
     {
       "title": "Rayhudson Nature",
       "description": "Organic fresh farm base in United Kingdom.",
-      "image": "Assets/images/rayhud_natures.png",
+      "image": "Assets/images/rayhud_natures.webp",
       "link": "https://rayhudsonnaturesbounty.com",
       "tags": ["HTML", "Tailwind CSS", "Javascript", "GIT"]
     },
     {
       "title": "Golden Fries",
       "description": "Just a hero section from a design from a Twitter/X UI/UX designer.",
-      "image": "https://7442charles.github.io/Golden_Fries/Assets/Images/fries.png",
+      "image": "Assets/images/golden_fries.webp",
       "link": "https://7442charles.github.io/Golden_Fries/",
       "tags": ["HTML", "Tailwind CSS", "Javascript", "GIT"]
     }
