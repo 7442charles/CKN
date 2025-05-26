@@ -1,4 +1,22 @@
 [
+    {
+    "title": "Vanilla JavaScript Tips to Level Up Your Frontend Skills",
+    "date": "2025-05-10",
+    "description": "No frameworks? No problem. Improve your raw JS skills with these pro tips.",
+    "link": "/blog/vanilla-js-tips"
+  },
+  {
+    "title": "Building Accessible Web Applications",
+    "date": "2025-05-25",
+    "description": "A guide to creating web apps that are accessible to all users, including those with disabilities.",
+    "link": "/blog/accessibility-guide"
+  },
+  {
+    "title": "CSS Grid Layout: A Comprehensive Guide",
+    "date": "2025-05-22",
+    "description": "Learn how to use CSS Grid to create complex, responsive layouts with ease.",
+    "link": "/blog/css-grid-guide"
+  },
   {
     "title": "Mastering Flexbox in CSS",
     "date": "2025-05-20",

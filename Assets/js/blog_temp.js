@@ -12,7 +12,9 @@ fetch('data/blogs.json')
           </svg>
         </span>
         &nbsp; 
-        <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">${blog.title}</h3>
+        <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+            <a href="${blog.link}" class="hover:underline text-blue-600 dark:text-blue-400">${blog.title}</a>
+        </h3>
         <time class="block mb-2 text-sm text-gray-400 dark:text-gray-500">${new Date(blog.date).toDateString()}</time>
         <p class="text-base text-gray-500 dark:text-gray-400">${blog.description}</p>
         <a href="${blog.link}" class="mt-2 inline-block text-blue-600 dark:text-blue-400 hover:underline text-sm font-medium">Read More →</a>
@@ -20,5 +22,5 @@ fetch('data/blogs.json')
     `).join('');
   })
   .catch(err => {
-    console.error('Failed to load blog timeline:', err);
+    // console.error('Failed to load blog timeline:', err);
   });
