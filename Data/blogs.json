@@ -1,32 +1,32 @@
 [
   {
-    "title": "Mastering Money Habits in Your 20s",
+    "title": "Mastering Flexbox in CSS",
     "date": "2025-05-20",
-    "description": "Simple strategies to build wealth early.",
-    "link": "blogs/money-habits-20s.html"
+    "description": "A practical guide to using Flexbox for responsive web layouts.",
+    "link": "/blog/mastering-flexbox"
   },
   {
-    "title": "5 Side Hustles for Kenyan Students",
+    "title": "Understanding the DOM: A Beginner’s Guide",
     "date": "2025-05-18",
-    "description": "Legit ways to earn income while in school.",
-    "link": "blogs/side-hustles-kenya.html"
+    "description": "Learn how the Document Object Model works and how to manipulate it with JavaScript.",
+    "link": "/blog/dom-guide"
   },
   {
-    "title": "Investing with Less Than 10K",
+    "title": "10 Must-Know HTML Tags for Developers",
     "date": "2025-05-15",
-    "description": "Realistic tips for starting small.",
-    "link": "blogs/investing-10k.html"
+    "description": "Explore essential HTML elements every frontend developer should know.",
+    "link": "/blog/html-tags"
   },
   {
-    "title": "Top Budgeting Apps in 2025",
+    "title": "Responsive Design with Tailwind CSS",
     "date": "2025-05-12",
-    "description": "Best free & paid tools to manage your money.",
-    "link": "blogs/budgeting-apps.html"
+    "description": "Build beautiful, mobile-first UIs using Tailwind’s responsive utilities.",
+    "link": "/blog/tailwind-responsive-design"
   },
   {
-    "title": "Understanding Sacco Savings",
+    "title": "Vanilla JavaScript Tips to Level Up Your Frontend Skills",
     "date": "2025-05-10",
-    "description": "Benefits and risks explained.",
-    "link": "blogs/sacco-savings.html"
+    "description": "No frameworks? No problem. Improve your raw JS skills with these pro tips.",
+    "link": "/blog/vanilla-js-tips"
   }
 ]
