@@ -1,7 +1,7 @@
 fetch('data/blogs.json')
   .then(res => res.json())
   .then(blogs => {
-    const container = document.getElementById('blog-timeline-inner');
+    const container = document.getElementById('blog');
     const latest = blogs.slice(0, 5); // Get latest 5
 
     container.innerHTML = latest.map(blog => `
