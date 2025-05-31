@@ -2,7 +2,7 @@
 const projectsContainer = document.querySelector('#projects .grid');
 
 // Fetch the JSON data
-fetch('Data/projects.json')
+fetch('data/projects.json')
   .then(response => response.json())
   .then(projects => {
     projects.forEach(project => {
