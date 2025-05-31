@@ -1,16 +1,17 @@
 [
+  {
+    "title": "Which Programming Language is Easy to Learn?",
+    "date": "2025-05-31",
+    "description": "Discover why Python is the best and easiest programming language to learn for beginners.",
+    "link": "/blog/easy-to-learn-programming-language.html"
+  },
     {
     "title": "How to Learn Programming on Your Own",
     "date": "2025-05-31",
     "description": "Learn how to teach yourself programming step-by-step with this comprehensive guide.",
     "link": "/blog/learn-programming-alone.html"
   },
-  {
-    "title": "Building Accessible Web Applications",
-    "date": "2025-05-25",
-    "description": "A guide to creating web apps that are accessible to all users, including those with disabilities.",
-    "link": "/blog/accessibility-guide"
-  },
+  
   {
     "title": "CSS Grid Layout: A Comprehensive Guide",
     "date": "2025-05-22",
